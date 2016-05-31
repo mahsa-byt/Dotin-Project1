@@ -27,6 +27,7 @@ public class ReadXMLFile {
             doc.getDocumentElement().normalize();
             //System.out.println("root element is: " + doc.getDocumentElement().getNodeName());
 
+
             return doc;
     }
 }
