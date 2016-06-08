@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <deposits>
     <deposit>
         <customerNumber>534900</customerNumber>
@@ -19,6 +19,18 @@
         <durationInDays>35</durationInDays>
     </deposit>
     <deposit>
+        <customerNumber>1</customerNumber>
+        <depositType>SoodBala</depositType>
+        <depositBalance>995966</depositBalance>
+        <durationInDays>3</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>2</customerNumber>
+        <depositType>SoodBala</depositType>
+        <depositBalance>995966</depositBalance>
+        <durationInDays>3</durationInDays>
+    </deposit>
+    <deposit>
         <customerNumber>48483</customerNumber>
         <depositType>Qarz</depositType>
         <depositBalance>145000</depositBalance>
@@ -36,22 +48,23 @@
         <depositBalance>345000</depositBalance>
         <durationInDays>58</durationInDays>
     </deposit>
+
     <deposit>
         <customerNumber>658951</customerNumber>
         <depositType>LongTerm</depositType>
-        <depositBalance>545966600000</depositBalance>
-        <durationInDays>1000</durationInDays>
+        <depositBalance>545966</depositBalance>
+        <durationInDays>1</durationInDays>
     </deposit>
     <deposit>
         <customerNumber>658952</customerNumber>
         <depositType>LongTerm</depositType>
-        <depositBalance>675966600000</depositBalance>
-        <durationInDays>2000</durationInDays>
+        <depositBalance>675966</depositBalance>
+        <durationInDays>2</durationInDays>
     </deposit>
     <deposit>
         <customerNumber>658953</customerNumber>
         <depositType>LongTerm</depositType>
-        <depositBalance>995966600000</depositBalance>
-        <durationInDays>3000</durationInDays>
+        <depositBalance>995966</depositBalance>
+        <durationInDays>3</durationInDays>
     </deposit>
 </deposits>
